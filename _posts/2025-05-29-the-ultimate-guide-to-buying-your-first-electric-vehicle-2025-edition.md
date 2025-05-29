@@ -1,9 +1,9 @@
 ---
-title: The Ultimate Guide to Buying Your First Electric Vehicle (2025 Edition)
+title: The Ultimate Guide to Buying Your First Electric Vehicle 2025 Edition
 author: muratsuzen
 date: 2025-05-29 10:00:00 +0300
 categories: [EV, Buying Guide]
-tags: [ev, buying, guide, 2025, tips, first time buyer]
+tags: [ev, buying, guide, tips, first time buyer]
 render_with_liquid: false
 ---
 
